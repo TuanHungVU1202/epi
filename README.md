@@ -1,5 +1,7 @@
 # EPI Judge
-I'm keeping the readme as it is from the author, but this is the repo to practice base on the EPI book, personal use only
+
+# *I'm keeping the readme as it is from the author, but this is the repo to practice base on the EPI book, personal use only*
+
 ## Beta 5
 
 ## Introduction
